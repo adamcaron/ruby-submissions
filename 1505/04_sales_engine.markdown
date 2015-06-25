@@ -52,7 +52,7 @@ The output from rake sanitation:all shows…
 
 Team: Jason Wright & Adam Caron
 
-Github Repo:
+Github Repo: https://github.com/noobjey/sales_engine
 
 Assessed By:
 
