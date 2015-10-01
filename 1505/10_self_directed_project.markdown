@@ -132,8 +132,8 @@ Production: http://artsup.herokuapp.com
 
 #### Adam Caron
 
-Github: http://github.com/adamcaron/whatchu_takin_bout<br>
-Production: http://whatchu-takin-bout.herokuapp.com
+Github: http://github.com/adamcaron/whatchu_talkin_bout<br>
+Production: http://whatchu-talkin-bout.herokuapp.com
 
 * **Completion**: 3 - Developer completed all the user stories and requirements set by the client.
 * **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
